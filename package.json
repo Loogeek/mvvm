@@ -1,0 +1,21 @@
+{
+  "name": "mvvm",
+  "version": "1.0.0",
+  "description": "vue mvvm",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "vue",
+    "mvvm"
+  ],
+  "author": "Loogeek",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loogeek/mvvm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Loogeek/mvvm/issues"
+  },
+  "homepage": "https://github.com/Loogeek/mvvm#readme"
+}
